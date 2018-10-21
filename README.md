@@ -10,6 +10,8 @@ The only PCBs that I have designed and ordered completely by myself were two bre
 
 # Photos
 
+## Satellite Pictures
+
 <center><img src="./images/satellite_nodes_andesite.jpg" width="100%" /></center>
 
 A few of the full assembled satellite nodes.
@@ -20,6 +22,9 @@ A few of the full assembled satellite nodes.
 A partially assembled node satellite circuit board.
 &nbsp;
 
+
+## Testing Sensors Photo
+
 <center><img src="./images/accelerometer_altimeter_breadbrd.jpg" width="100%" /></center>
 
-My altimeter breakout board(top left) and my accelerometer breakout(top right) board can be see being test in this picture. 
+My altimeter breakout board(top left) and my accelerometer breakout(top right) board can be see being test in this picture.
