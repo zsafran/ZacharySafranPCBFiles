@@ -27,4 +27,4 @@ A partially assembled node satellite circuit board.
 
 <center><img src="./images/accelerometer_altimeter_breadbrd.jpg" width="100%" /></center>
 
-My altimeter breakout board(top left) and my accelerometer breakout(top right) board can be see being test in this picture.
+My altimeter breakout board (top left) and my accelerometer breakout board (top right) can be see being test in this picture.
